@@ -24,7 +24,9 @@ public class WebServerConfiguration {
         return new WebAccountsService(ACCOUNTS_SERVICE_URL, restTemplate());
     }
 
-    /// Balanceo de carga desde el cliente gracias a Eureka
+    /**
+     * Load balancing from the client side to discover the best Eureka server
+     */
     @LoadBalanced
     @Bean
     public RestTemplate restTemplate() {
