@@ -50,6 +50,6 @@ Proposed:
 Manifest your intention first by a PR updating this `README.md` with your goal. If you desist of your goal, release it
 by a PR so other fellow can try it.
 
-| NIA | User name | Repo | Improvement | Score |
-|-----|-----------|------|-------------|-------|
-|     |           |      |             |       |
+| NIA    | User name       | Repo       | Improvement | Score |
+|--------|-----------------|------------|-------------|-------|
+| 735550 | [Jorge Laguna](https://github.com/topopelon) | [report](https://github.com/topopelon/lab6-microservices/blob/test/report/report.md) |             |       |
