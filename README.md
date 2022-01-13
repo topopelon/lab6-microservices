@@ -84,3 +84,4 @@ by a PR so other fellow can try it.
 | 666151 | Fede Barcelona | [Report](https://github.com/tembleking/lab6-microservices/blob/work/report.md)     |             |       |
 | 779057 | Jaime Yoldi Vigueras | [report](https://github.com/jaimoyok/lab6-microservices/blob/test/report.md)     |             |       |
 | 785370 | Íñigo Aréjula | [report](https://github.com/arejula27/lab6-microservices/blob/test/docs/report.md) |  ||
+| 646946 | Hector Herrmann | [Primary Goal](https://github.com/HNHerrmann/lab6-microservices/blob/test/report.md) |             |       |
