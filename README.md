@@ -80,3 +80,4 @@ by a PR so other fellow can try it.
 | 722292 | [Adrián García](https://github.com/adrigaarcia/lab6-microservices)|[Primary Goal](https://github.com/adrigaarcia/lab6-microservices/blob/test/primary_goal.md)| | |
 | 764914 | [Víctor Pérez](https://github.com/vitolo99/lab6-microservices)|[Primary Goal](https://github.com/vitolo99/lab6-microservices/blob/test/PRIMARY_GOAL.md)| |
 | 779799 | Binhui Chen Zhou | [Report](https://github.com/779799/lab6-microservices/blob/test/report.md) |             |       |
+| 759406 | [Rubén Subías](https://github.com/Gelpa99/lab6-microservices)|[Primary Goal](https://github.com/Gelpa99/lab6-microservices/blob/test/report.md)| |
