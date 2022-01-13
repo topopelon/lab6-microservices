@@ -78,3 +78,4 @@ by a PR so other fellow can try it.
 | 779691 | [Tomás Pelayo](https://github.com/Tomenos18/lab6-microservices)|[Report](https://github.com/Tomenos18/lab6-microservices/blob/test/report.md)| | |
 | 780029 | [Mateo Vallejo](https://github.com/CursedR3N/lab6-microservices/tree/test) | [report](https://github.com/CursedR3N/lab6-microservices/blob/test/report/report.md) | | |
 | 722292 | [Adrián García](https://github.com/adrigaarcia/lab6-microservices)|[Primary Goal](https://github.com/adrigaarcia/lab6-microservices/blob/test/primary_goal.md)| | |
+| 764914 | [Víctor Pérez](https://github.com/vitolo99/lab6-microservices)|[Primary Goal](https://github.com/vitolo99/lab6-microservices/blob/test/PRIMARY_GOAL.md)| |
