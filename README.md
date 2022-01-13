@@ -82,3 +82,4 @@ by a PR so other fellow can try it.
 | 779799 | Binhui Chen Zhou | [Report](https://github.com/779799/lab6-microservices/blob/test/report.md) |             |       |
 | 759406 | [Rubén Subías](https://github.com/Gelpa99/lab6-microservices)|[Primary Goal](https://github.com/Gelpa99/lab6-microservices/blob/test/report.md)| |
 | 666151 | Fede Barcelona | [Report](https://github.com/tembleking/lab6-microservices/blob/work/report.md)     |             |       |
+| 779057 | Jaime Yoldi Vigueras | [report](https://github.com/jaimoyok/lab6-microservices/blob/test/report.md)     |             |       |
