@@ -50,6 +50,40 @@ Proposed:
 Manifest your intention first by a PR updating this `README.md` with your goal. If you desist of your goal, release it
 by a PR so other fellow can try it.
 
-| NIA    | User name       | Repo       | Improvement | Score |
-|--------|-----------------|------------|-------------|-------|
+| NIA | User name | Report | Improvement | Score |
+|-----|-----------|------|-------------|-------|
+| 757166 | Pablo Jordan | [Primary Goal](https://github.com/pabloJordan24/lab6-microservices/blob/test/PrimaryGoal/PrimaryGoal.md) |             |       |
+| 755232 | Diego Marco | [report](https://github.com/dmarcob/lab6-microservices/blob/test/report.md) |
+| 778097 | Héctor Bara |  [Solution](https://github.com/dolansete/lab6-microservices/blob/test/report.md)    |             |       |
+| 778148 | José Marín | [report](https://github.com/jmarindiez/lab6-microservices/blob/test/docs/report.md) |             |       |
+| 774840 | [Fernando Serrano](https://github.com/Feer93/lab6-microservices) | [report](https://github.com/Feer93/lab6-microservices/blob/test/documentation.md) |             |       |
+| 755848 | Guillermo Cánovas González | [Report](https://github.com/guillecanovas/lab6-microservices/blob/test/report.md)
+| 785649 | [Andoni Salcedo](https://github.com/AndoniSalcedo/lab6-microservices) | [report.md](https://github.com/AndoniSalcedo/lab6-microservices/blob/test/report.md) | | |
+| 767870 | Diego García Muro | [report](https://github.com/thdgm/lab6-microservices/blob/test/ReportMD/ReportMD.md)  |             |       |
+| 780448 | María Peña | [Report](https://github.com/Keyleth8/lab6-microservices/blob/test/Solution.md) |             |       |
+| 779354 | Alejandro Magallón Soler|[Report](https://github.com/alecron/lab6-microservices/blob/test/Report.md)      |             |       |
+| 780378 | Óscar Pueyo | [report](https://github.com/iksopo/lab6-microservices/blob/test/doc/report.md) |             |       |
+| 774335 | Ángela Rojo | [Report](https://github.com/angela-rs/lab6-microservices/blob/work/report.md) |             |       |
+| 780454 | Marta Morales Sabroso|[Solution](https://github.com/780454-unizar/lab6-microservices/blob/test/solution.md)      |             |       |
+| 734941 | Felipe Nonay|[LAB6_Solution](https://github.com/fnonay/lab6-microservices/blob/test/SOLUTION.md)|
+| 720162 | Salomé Rea| [report](https://github.com/SalomeReav/lab6-microservices/blob/test/report.md)  |             |       |
+| 780180 | [Carlos Navarro](https://github.com/Lulay7/lab6-microservices) | [report](https://github.com/Lulay7/lab6-microservices/blob/c295e1f8973ff123815377bd1588a0e2f23034c0/report/report.md) |             |       |
+| 775929 | [Alejandro Artal](https://github.com/Alejandro-Artal/lab6-microservices/tree/test)| [Report](https://github.com/Alejandro-Artal/lab6-microservices/blob/test/report.md) |      |             |
+| 776012 | Jaime Conchello | [report](https://github.com/jaimecb/lab6-microservices/blob/test/report.md) |             |       |
+| 755787 | Sergio Benítez Mombiela | [report](https://github.com/SergioBenitez755787/lab6-microservices/blob/test/Solution/report.md) |             |       |
+| 771069 | [Alejandro Terron](https://github.com/Alex28499/lab6-microservices/tree/work) |[Report](https://github.com/Alex28499/lab6-microservices/blob/work/report.md)|             |       |
+| 776453 | Jorge Serrano Ibañez | [Report](https://github.com/zgzserrano/lab6-microservices/blob/test/report.md)
+| 757024 | Germán Garcés| [report.md](https://github.com/fntkg/lab6-microservices/blob/work/report.md)     | |       |
+| 721520 | Sergio García-Campero Hernández | [solution.md](https://github.com/SergioGCH/lab6-microservices/blob/test/solution.md)     | |       |
+| 779691 | [Tomás Pelayo](https://github.com/Tomenos18/lab6-microservices)|[Report](https://github.com/Tomenos18/lab6-microservices/blob/test/report.md)| | |
+| 780029 | [Mateo Vallejo](https://github.com/CursedR3N/lab6-microservices/tree/test) | [report](https://github.com/CursedR3N/lab6-microservices/blob/test/report/report.md) | | |
+| 722292 | [Adrián García](https://github.com/adrigaarcia/lab6-microservices)|[Primary Goal](https://github.com/adrigaarcia/lab6-microservices/blob/test/primary_goal.md)| | |
+| 764914 | [Víctor Pérez](https://github.com/vitolo99/lab6-microservices)|[Primary Goal](https://github.com/vitolo99/lab6-microservices/blob/test/PRIMARY_GOAL.md)| |
+| 779799 | Binhui Chen Zhou | [Report](https://github.com/779799/lab6-microservices/blob/test/report.md) |             |       |
+| 759406 | [Rubén Subías](https://github.com/Gelpa99/lab6-microservices)|[Primary Goal](https://github.com/Gelpa99/lab6-microservices/blob/test/report.md)| |
+| 666151 | Fede Barcelona | [Report](https://github.com/tembleking/lab6-microservices/blob/work/report.md)     |             |       |
+| 779057 | Jaime Yoldi Vigueras | [report](https://github.com/jaimoyok/lab6-microservices/blob/test/report.md)     |             |       |
+| 785370 | Íñigo Aréjula | [report](https://github.com/arejula27/lab6-microservices/blob/test/docs/report.md) |  ||
+| 646946 | Hector Herrmann | [Primary Goal](https://github.com/HNHerrmann/lab6-microservices/blob/test/report.md) |             |       |
+| 758986 | Isaac Velasco | [Primary Goal](https://github.com/pkmniako/lab6-microservices/blob/work/documentation/report.md) |  | |
 | 735550 | [Jorge Laguna](https://github.com/topopelon) | [report](https://github.com/topopelon/lab6-microservices/blob/test/report/report.md) |             |       |
